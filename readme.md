@@ -10,12 +10,6 @@ Este projeto é um gerador de currículos desenvolvido em PHP, com frontend em H
 - **Upload de Foto**: Permite ao usuário fazer upload de uma foto para incluir no currículo.
 - **Geração de Currículo**: Geração de currículo em formato HTML, com opção para impressão.
 
-## Pré-requisitos
-
-Antes de começar, verifique se você possui o seguinte instalado:
-- PHP
-- Servidor web (Apache, Nginx)
-
 ## Instalação
 
 Siga estas etapas para configurar e executar o projeto localmente:
